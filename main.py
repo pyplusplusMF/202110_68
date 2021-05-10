@@ -6,7 +6,7 @@ Ejercicios de la semana 1 - 2
 '''
 
 
-from _68semana02clase04 import funciones 
+import _68semana02clase04_funciones as funciones 
 
 x = funciones.operacionSuma (20,30) #invocar la funcion
 print (x)
@@ -16,3 +16,5 @@ print (x)
 
 print (funciones.operacionSuma(10,-1))
 
+
+import _68semana02clase05
