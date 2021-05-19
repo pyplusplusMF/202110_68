@@ -23,4 +23,6 @@ print (funciones.operacionSuma(10,-1))'''
 
 '''import _68semana02clase07'''
 
-import _68semana03clase08
+'''import _68semana03clase08'''
+
+import _68semana03clase09
