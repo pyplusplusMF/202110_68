@@ -1,3 +1,10 @@
+#Clase del dia miércoles 26 de mayo
+#Tema: Conjutos 
+#Documentacion de python 
+#https://docs.python.org/es/3/c-api/set.html
+#https://www.w3schools.com/python/python_sets.asp
+#https://www.mclibre.org/consultar/python/lecciones/python-listas.html#Paso28
+
 def teoriaConjuntos():
     s = {True, 3.14, None, False, "Hola mundo", (1, 2)}
     print ('s = ',s)
@@ -75,3 +82,19 @@ def operacionesConjunto2():
     print ('A disjuncion D ? ', disjuncion)
 operacionesConjunto2()
 
+def operacionesConjuntos3():
+    '''
+    11. discard(), elimina un elemento. Sino está no pasa nada.
+    12. pop(), extrae un elemento y si el conjunto queda vacío devuelve KeyError 
+    13. remove(), elimina un elemento. Sino está se produce un error KeyError 
+    14. update(), actualiza un conjunto a partir de otro conjunto de datos
+        Si actualizamos un conjunto con una cadena de texto se creará el conjunto de 	todos los carácteres de ese texto
+        Si actualizamos el conjunto con un diccionario se añadiran solo las claves de 	ese diccionario
+    '''
+    diccionario = {'a':5, 'b':5, 'c':3, 'd':4, 'e':5}
+    print ('diccionario = ', diccionario)
+    conjuntoDeValores = set (diccionario.values())
+    print ('conjuntoDeValores = ',conjuntoDeValores)
+    conjuntoDeLlaves = set (diccionario.keys())
+    print ('conjuntoDeLlaves = ', conjuntoDeLlaves)
+operacionesConjuntos3()
