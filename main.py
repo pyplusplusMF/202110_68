@@ -31,4 +31,10 @@ print (funciones.operacionSuma(10,-1))'''
 
 '''import _68semana04clase11'''
 
-import _68semana04clase11Ejercicio
+'''import _68semana04clase11Ejercicio'''
+
+'''import _68semana04clase12Ejercicio2'''
+
+'''import _68semana04clase12Ejercicio3CRUD'''
+
+import _68semana04clase12Ejercicio4vinos
