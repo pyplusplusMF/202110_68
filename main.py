@@ -42,4 +42,7 @@ print (funciones.operacionSuma(10,-1))'''
 # import _68semana04clase13Conversion
 
 
-import _68semana05clase15MapFilterReduce
+# import _68semana05clase15MapFilterReduce
+
+import _68semana05clase15Numpy
+
