@@ -1,5 +1,9 @@
 # clase miercoles 2 de junio
 
+# linea de comando para instalar numpy
+# py -m pip install numpy (conda) (En windows)
+# https://numpy.org/install/
+
 import numpy as np
 
 arreglo = np.array([1,2,3])

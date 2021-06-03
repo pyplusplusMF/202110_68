@@ -42,7 +42,7 @@ def ejercicio3Map():
 ejercicio3Map()
 
 def ejemploConMapYLambda ():
-    #Convertir todas las temperaturas de una lista de grados Celsius a Fahrenheit
+    # Convertir todas las temperaturas de una lista de grados Celsius a Fahrenheit
     listaTemperaturas = [12.5, 13.6, 15, 9.2]
     print ('lista de temperaturas °C = ', listaTemperaturas)
     
@@ -53,7 +53,7 @@ def ejemploConMapYLambda ():
                             )
                         )
     print ('lista convertida a °F = ', listaConvertida)
-    #[54.5, 56.48, 59.0, 48.56]
+    # [54.5, 56.48, 59.0, 48.56]
 ejemploConMapYLambda()
 
 
@@ -180,3 +180,4 @@ def ejemploZip ():
     # {'a': 10, 'b': 20, 'c': 30, 'd': 40}
     
 ejemploZip()
+

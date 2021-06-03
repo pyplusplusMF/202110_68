@@ -44,5 +44,11 @@ print (funciones.operacionSuma(10,-1))'''
 
 # import _68semana05clase15MapFilterReduce
 
-import _68semana05clase15Numpy
+# import _68semana05clase15Numpy
 
+import _68semana05clase16Numpy
+
+# https://numpy.org/doc/stable/reference/routines.math.html
+
+# Tipos de datos de los arrays
+# https://numpy.org/doc/stable/reference/arrays.dtypes.html
