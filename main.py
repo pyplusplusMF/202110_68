@@ -54,4 +54,6 @@ print (funciones.operacionSuma(10,-1))'''
 # https://numpy.org/doc/stable/reference/arrays.dtypes.html
 
 
-import _68semana06clase17PandasEjercicio
+# import _68semana06clase17PandasEjercicio
+
+import _68semana06clase18Archivos
