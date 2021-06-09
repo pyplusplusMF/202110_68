@@ -56,4 +56,6 @@ print (funciones.operacionSuma(10,-1))'''
 
 # import _68semana06clase17PandasEjercicio
 
-import _68semana06clase18Archivos
+# import _68semana06clase18Archivos
+
+import _68semana06clase18EjemploReto5
