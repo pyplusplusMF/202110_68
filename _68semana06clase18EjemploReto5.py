@@ -27,3 +27,8 @@ def ejemploReto5 (nombreArchivo:str) -> dict:
 
 nombre = 'titanic3.csv'
 print (ejemploReto5(nombre))
+
+
+# Ejemplo de MVC
+# De manera autonoma -->
+# https://github.com/luismescobarf/clasesCiclo1/tree/master/AppCRUD_CapaDatos
