@@ -60,4 +60,8 @@ print (funciones.operacionSuma(10,-1))'''
 
 # import _68semana06clase18EjemploReto5
 
-import _68semana06clase18Matplotlib
+# import _68semana06clase18Matplotlib
+
+# import _68semana06clase19POOEjemplo1
+
+import _68semana06clase19POOEjemplo2
